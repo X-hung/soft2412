@@ -1,2 +1,2 @@
-Agile Software Development Practices
+Agile Software Development Practice
 Agile Software Development Practice
